@@ -1,6 +1,6 @@
 # flutter_notiy
 
-A new Flutter project.
+Flutter Project for Firebbase Notification
 
 ## Getting Started
 
